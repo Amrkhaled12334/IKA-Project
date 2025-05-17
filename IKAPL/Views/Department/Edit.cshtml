@@ -1,0 +1,26 @@
+﻿@model DepartmentVM
+@{
+    ViewData["Title"] = "Edit Department";
+}
+<div class="row justify-content-center align-content-center flex-column">
+
+    <h1 class="col-6 my-4">Edit Department : @Model.Name</h1>
+    <form asp-action="Edit" method="post" class="col-6">
+
+        <partial name="Partials/_CreateEditPartial" model="@Model" />
+
+        <div class="mt-4">
+            <input type="submit" value="Update" class="btn btn-success" /> |
+            <a asp-action="Index" class="btn btn-secondary">Back To List</a>
+        </div>
+    </form>
+
+</div>
+
+
+
+
+@section ValidateScripts
+{
+    <partial name="_ValidationScriptsPartial">
+}

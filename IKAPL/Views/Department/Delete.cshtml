@@ -1,0 +1,16 @@
+﻿@model DepartmentDetailsDto
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Are U Sure to Delete @Model.Name Department ?</h1>
+<!-- Bootstrap Tabs -->
+<partial name="Partials/_DeleteDetailsPartial" model="Model" />
+
+<form asp-action="Delete" asp-route-DeptId="@Model.Id" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="mt-4">
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Back To list</a>
+    </div>
+</form>

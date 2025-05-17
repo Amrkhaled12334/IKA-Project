@@ -1,0 +1,72 @@
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 3\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 43\7.ASP.NET Core Web MVC\Session 4\Demo\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 5\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 6\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+D:\Career\Work\ROUTE\Cycle 43\7.ASP.NET Core Web MVC\Session 7\Demos\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+C:\Users\User\Downloads\IKEASolution\IKEASolutionG02\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll
